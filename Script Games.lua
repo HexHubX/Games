@@ -1,7 +1,9 @@
-local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/HexHubX/Games/refs/heads/main/ListGames.lua"))()
+local GamesList = loadstring(game:HttpGet("https://raw.githubusercontent.com/HexHubX/Games/refs/heads/main/ListGames.lua"))()
 
-local URL = Games[game.PlaceId]
+local ScriptURL = GamesList[game.PlaceId]
 
-if URL then
-  loadstring(game:HttpGet(URL))()
+if ScriptURL then
+    loadstring(game:HttpGet(ScriptURL))()
+else
+    warn("Game not supported: " .. game.PlaceId)
 end
