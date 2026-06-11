@@ -1,12 +1,7 @@
--- This Code: By Speed hub x
-local HttpGet = game.HttpGet
-local GameId: number = game.GameId
+local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/HexHubX/Games/refs/heads/main/ListGames.lua"))()
 
-local Games: {[number]: string} = loadstring(
-  HttpGet(game, "https://raw.githubusercontent.com/HexHubX/Games/refs/heads/main/ListGames.lua")
-)() :: any
+local URL = Games[game.GameId]
 
-local URL: string? = Games[GameId]
-if not URL then return end
-
-loadstring(HttpGet(game, URL))()
+if URL then
+  loadstring(game:HttpGet(URL))()
+end
