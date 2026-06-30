@@ -4,7 +4,8 @@ local Games = {
   [107646426076756] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Build%20A%20Ring%20Farm.lua", -- Build A Ring Farm (ID2)
   [10200395747] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Grow%20a%20Garden%202.lua", -- Grow a Garden 2
   [97598239454123] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Grow%20a%20Garden%202.lua", -- Grow a Garden 2 (2 Id) 
-  [78515283254292] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Animal%20Hospital.lua", 
+  [78515283254292] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Animal%20Hospital.lua", -- Animal Hospital
+  [104522435597696] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Animal%20Hospital.lua", -- Animal Hospital 2
 }
 
 return Games
