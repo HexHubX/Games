@@ -6,7 +6,7 @@ local Games = {
   [97598239454123] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Grow%20a%20Garden%202.lua", -- Grow a Garden 2 (2 Id) 
   [78515283254292] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Animal%20Hospital.lua", -- Animal Hospital
   [104522435597696] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Animal%20Hospital.lua", -- Animal Hospital 2
-  [13772394625] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/BladeBall.lua", 
+  [4924922222] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/BrookhavenRP.lua", 
 }
 
 return Games
