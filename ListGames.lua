@@ -8,7 +8,8 @@ local Games = {
   [104522435597696] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Animal%20Hospital.lua", -- Animal Hospital 2
   [4924922222] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/BrookhavenRP.lua",
   [92637789841354] = "https://www.roblox.com/games/92637789841354/Clean-all-the-leaves",
-  [90086669327265] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Cut%20Grass%20Adventure.lua", 
+  [90086669327265] = "https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Cut%20Grass%20Adventure.lua",
+  [142823291] ="https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/out.lua%20(5).lua", 
 }
 
 return Games
