@@ -7,7 +7,8 @@ local Games = {
   [142823291] ="https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Murder%20Mystery%202.lua%20(10)_protected.lua",
   [81374640397860]="https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Murder%20Mystery%202.lua%20(10)_protected.lua", 
   [124216119978534]="https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Ride%20A%20Pet.lua", 
-  [155615604]="https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Prison%20Life.lua_protected.lua", 
+  [155615604]="https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Prison%20Life.lua_protected.lua",
+  [994732206]="https://raw.githubusercontent.com/HexHubX/Main/refs/heads/main/Bloxfruit.lua%20(1)_protected.lua", 
 }
 
 return Games
